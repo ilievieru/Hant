@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Core/E-Healt/E-Healt.iml" filepath="$PROJECT_DIR$/Core/E-Healt/E-Healt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hant.Ui/Hant.Ui.iml" filepath="$PROJECT_DIR$/Hant.Ui/Hant.Ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/WADE.MS.HAnt.iml" filepath="$PROJECT_DIR$/.idea/WADE.MS.HAnt.iml" />
+    </modules>
+  </component>
+</project>
